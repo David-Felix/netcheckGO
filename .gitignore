@@ -1,0 +1,4 @@
+/netcheck
+/bin/
+*.test
+*.out
